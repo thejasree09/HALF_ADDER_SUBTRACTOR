@@ -35,13 +35,10 @@ Figure -02 HALF Subtractor
 
 **Truthtable**
 HALF ADDER:
-```
 ![WhatsApp Image 2025-04-07 at 14 08 57_0eb2ccdc](https://github.com/user-attachments/assets/132c38a7-2209-404a-b0d0-4e3e189a20df)
-```
 HALF SUBRACTOR:
-```
 ![WhatsApp Image 2025-04-07 at 14 09 12_ee8598c2](https://github.com/user-attachments/assets/76657c5e-3bfb-4010-b7a5-98b853472b3e)
-```
+
 
 
 
